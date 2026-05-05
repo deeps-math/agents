@@ -4,6 +4,15 @@ LLM → Brain 🧠
 ComfyUI → Eyes 👁
 TTS → Voice 🎙
 FFmpeg → Editor 🎬
+
+
+FULL STARTUP FLOW (Step-by-step)
+
+You need to run 3 things in order:
+
+Ollama (LLM)
+ComfyUI (Image generation)
+Your Python agent (main.py)
          
          
          ┌───────────────┐
